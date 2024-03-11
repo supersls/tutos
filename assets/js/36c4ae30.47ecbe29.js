@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutos=self.webpackChunktutos||[]).push([[2630],{9477:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/tutos/blog/tags/hola","allTagsPath":"/tutos/blog/tags","count":1,"unlisted":false}')}}]);

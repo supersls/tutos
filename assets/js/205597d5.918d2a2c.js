@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutos=self.webpackChunktutos||[]).push([[3054],{4871:t=>{t.exports=JSON.parse('{"permalink":"/tutos/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
