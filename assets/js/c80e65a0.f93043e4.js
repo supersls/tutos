@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktutos=self.webpackChunktutos||[]).push([[1007],{1318:t=>{t.exports=JSON.parse('{"title":"crafsmanChip","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/crafsmanchip","permalink":"/tutos/docs/category/crafsmanchip","navigation":{"next":{"title":"DDD","permalink":"/tutos/docs/craftsmanChip/DDD"}}}')}}]);
